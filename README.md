@@ -2,6 +2,13 @@
 
 ## Descrição do Projeto
 
+Este projeto foi desenvolvido na **Agenda 11** do segundo módulo do curso de **Desenvolvimento de Sistemas EAD** da **ETEC**. A base do projeto foi fornecida pelo professor, com o objetivo de adicionar elementos e funções que garantam o funcionamento básico do jogo **Jogo da Velha**.
+
+A proposta deste exercício é aprofundar o entendimento sobre a construção de interfaces e a implementação de lógicas de interação em aplicativos utilizando **.NET MAUI**.
+
+Você pode acessar a base do projeto [aqui](https://github.com/tiagotas/MauiAppJogoDaVelha.git).
+
+
 O **Jogo da Velha** é um clássico jogo de dois jogadores que é jogado em um tabuleiro 3x3. Cada jogador alterna turnos para marcar seu símbolo ("X" ou "O") em uma das células vazias do tabuleiro. O jogo termina quando um jogador forma uma linha com três símbolos ou quando todas as células são preenchidas, resultando em um empate.
 
 ---
@@ -10,7 +17,7 @@ O **Jogo da Velha** é um clássico jogo de dois jogadores que é jogado em um t
 
 | Funcionalidade                     | Descrição                                                                                          |
 |------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Interface Gráfica**              | Uma interface interativa e atraente com botões que representam as células do tabuleiro.          |
+| **Interface Gráfica**              | Uma interface interativa com botões que representam as células do tabuleiro.          |
 | **Marcação de Jogadas**            | Os jogadores podem marcar suas jogadas alternadamente, com "X" e "O" aparecendo nos botões.      |
 | **Verificação de Vitoria**         | O sistema verifica automaticamente se um jogador venceu após cada jogada.                        |
 | **Placar**                         | Um placar que acompanha as vitórias de cada jogador e empates durante a sessão de jogo.          |
