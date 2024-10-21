@@ -4,10 +4,16 @@
 
 Este projeto foi desenvolvido na **Agenda 11** do segundo módulo do curso de **Desenvolvimento de Sistemas EAD** da **ETEC**. A base do projeto foi fornecida pelo professor, com o objetivo de adicionar elementos e funções que garantam o funcionamento básico do jogo **Jogo da Velha**.
 
+## Decisões de Implementação
+
+A utilização de estruturas de decisão com `if` de forma reiterada, bem como a repetição de outros elementos do código neste projeto foi uma escolha intencional para melhorar a fixação dos conceitos básicos de programação, pois este foi um primeiro contato com a linguagem **C#**. Ao manter o código mais próximo de uma lógica "humana", evitando o uso de métodos e bibliotecas avançadas, foi possível desenvolver uma maior familiaridade com as estruturas básicas da linguagem, facilitando o aprendizado e a compreensão dos fundamentos essenciais.
+
+
 A proposta deste exercício é aprofundar o entendimento sobre a construção de interfaces e a implementação de lógicas de interação em aplicativos utilizando **.NET MAUI**.
 
 Você pode acessar a base do projeto [aqui](https://github.com/tiagotas/MauiAppJogoDaVelha.git).
 
+##Jogo da Velha
 
 O **Jogo da Velha** é um clássico jogo de dois jogadores que é jogado em um tabuleiro 3x3. Cada jogador alterna turnos para marcar seu símbolo ("X" ou "O") em uma das células vazias do tabuleiro. O jogo termina quando um jogador forma uma linha com três símbolos ou quando todas as células são preenchidas, resultando em um empate.
 
